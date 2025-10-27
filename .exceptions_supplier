@@ -1,0 +1,64 @@
+=== EXCEPTION_START ===
+VERSION: 1.0
+EXCEPTION_ID: EXC-915D72AF60FB
+STATUS: REJECTED
+QUEUE: supplier_mismatch
+PRIORITY: MEDIUM
+EXCEPTION_TYPE: SUPPLIER_MISMATCH
+TIMESTAMP: 2025-10-25T19:22:11Z
+INVOICE_ID: INV-AEG-2025-001
+PO_NUMBER: PO-2025-304A
+AMOUNT: $6,000.00
+SUPPLIER: <unknown>
+ROUTING_REASON: Supplier information mismatch
+CONFIDENCE_SCORE: 0.0
+MANAGER_APPROVAL_REQUIRED: NO
+
+CONTEXT:
+SUPPLIER MISMATCH:
+  - Supplier information mismatch
+  - Verify supplier details and PO matching
+
+SUGGESTED_ACTIONS:
+  - Review the specific issues listed above
+  - Contact supplier if data discrepancies found
+  - Verify PO and contract details if matching issues
+  - Approve manually if all checks pass after review
+
+METADATA:
+  tool_version: 1.0.0
+  system_version: 2.1.0
+  processing_time: N/A
+=== EXCEPTION_END ===
+=== EXCEPTION_START ===
+VERSION: 1.0
+EXCEPTION_ID: EXC-70C22B799BBB
+STATUS: REJECTED
+QUEUE: supplier_mismatch
+PRIORITY: MEDIUM
+EXCEPTION_TYPE: SUPPLIER_MISMATCH
+TIMESTAMP: 2025-10-25T19:22:35Z
+INVOICE_ID: INV-ORI-2025-001
+PO_NUMBER: PO-2025-301A
+AMOUNT: $7,200.00
+SUPPLIER: <unknown>
+ROUTING_REASON: Supplier information mismatch
+CONFIDENCE_SCORE: 0.0
+MANAGER_APPROVAL_REQUIRED: NO
+
+CONTEXT:
+SUPPLIER MISMATCH:
+  - Supplier information mismatch
+  - Verify supplier details and PO matching
+
+SUGGESTED_ACTIONS:
+  - Review the specific issues listed above
+  - Contact supplier if data discrepancies found
+  - Verify PO and contract details if matching issues
+  - Approve manually if all checks pass after review
+
+METADATA:
+  tool_version: 1.0.0
+  system_version: 2.1.0
+  processing_time: N/A
+=== EXCEPTION_END ===

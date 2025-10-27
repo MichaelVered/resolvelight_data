@@ -1,0 +1,56 @@
+{
+  "purchase_orders": [
+    {
+      "po_number": "PO-2025-301A",
+      "contract_id": "CON-TECH-2025-001",
+      "status": "ACTIVE",
+      "description": "Initial backend microservices development for Project Orion.",
+      "total_value": 25000.00,
+      "cost_center": "PROJ-ORI-ENG",
+      "requester": "brenda@globalinnovations.corp",
+      "effective_date": "2025-01-10",
+      "issue_date": "2025-01-10",
+      "payment_terms": "Net 30",
+      "currency": "USD",
+      "approver": "finance.approver@globalinnovations.corp",
+      "line_items": [
+        {
+          "item_id": "ORI-001",
+          "description": "Microservices development sprint",
+          "quantity": 30,
+          "unit_price": 150.00,
+          "line_total": 4500.00
+        },
+        {
+          "item_id": "ORI-002",
+          "description": "Architecture & design hours",
+          "quantity": 10,
+          "unit_price": 150.00,
+          "line_total": 1500.00
+        },
+        {
+          "item_id": "ORI-003",
+          "description": "API documentation and testing",
+          "quantity": 8,
+          "unit_price": 150.00,
+          "line_total": 1200.00
+        }
+      ]
+    },
+    {
+      "po_number": "PO-2025-301B",
+      "contract_id": "CON-TECH-2025-001",
+      "status": "ACTIVE",
+      "description": "Observability and billing integration sprint for Project Orion.",
+      "total_value": 40000.00,
+      "cost_center": "PROJ-ORI-PLAT",
+      "requester": "charles@globalinnovations.corp",
+      "effective_date": "2025-03-01",
+      "issue_date": "2025-03-01",
+      "payment_terms": "Net 30",
+      "currency": "USD",
+      "approver": "finance.approver@globalinnovations.corp"
+    }
+  ]
+}
+

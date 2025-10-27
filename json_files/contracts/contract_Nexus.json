@@ -1,0 +1,44 @@
+{
+  "contract_id": "CON-AI-2025-009",
+  "contract_title": "2025 AI Consulting Services Agreement - Project Nexus",
+  "contract_metadata": {
+    "version": "1.0",
+    "status": "Active",
+    "effective_date": "2025-10-01",
+    "end_date": "2025-12-31",
+    "contract_currency": "USD",
+    "contract_ceiling_value": 50000.00
+  },
+  "parties": {
+    "client": {
+      "name": "Global Innovations Corp.",
+      "address": "123 Enterprise Blvd, Innovation City, 90210",
+      "contact_person": "Jane Doe",
+      "contact_email": "jane.doe@globalinnovations.corp"
+    },
+    "supplier": {
+      "name": "Nexus Innovations LLC",
+      "vendor_id": "V-91245",
+      "address": "789 AI Drive, Tech Valley, 94043",
+      "contact_person": "Dr. Sarah Chen",
+      "contact_email": "sarah.chen@nexusinnovations.ai"
+    }
+  },
+  "sections": [
+    {
+      "section_id": "1.0",
+      "section_title": "Scope of Work (SOW)",
+      "details": "Supplier to provide advanced AI model consultation services including architecture design, implementation guidance, and performance optimization for Project Nexus AI initiatives."
+    },
+    {
+      "section_id": "2.0",
+      "section_title": "Billing Terms and Schedule",
+      "details": "Invoices will be submitted monthly. Time-and-materials at $400 per hour with an NTE of $15,000 for Q4. Overage requires written change order. Payment terms are Net 30."
+    },
+    {
+      "section_id": "3.0",
+      "section_title": "Legal and Confidentiality",
+      "details": "This agreement is governed by the laws of the State of California. All work performed under this agreement is considered confidential and the intellectual property of Global Innovations Corp."
+    }
+  ]
+}
