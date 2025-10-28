@@ -1,5 +1,5 @@
 {
-  "invoice_id": "INV-ZEP-2025-001",
+  "invoice_id": "INV-ZEP-2025-200",
   "purchase_order_number": "PO-2025-305A",
   "issue_date": "2024-03-10",
   "due_date": "2025-04-09",
@@ -17,21 +17,20 @@
       "item_id": "ZEP-001",
       "description": "Mobile foundation sprint",
       "quantity": 30,
-      "unit_price": 150.00,
-      "line_total": 4500.00
+      "unit_price": 150.0,
+      "line_total": 4500.0
     },
     {
       "item_id": "ZEP-002",
       "description": "Design system and testing",
       "quantity": 14,
-      "unit_price": 150.00,
-      "line_total": 2100.00
+      "unit_price": 150.0,
+      "line_total": 2100.0
     }
   ],
   "summary": {
-    "subtotal": 6600.00,
-    "tax_amount": 0.00,
-    "billing_amount": 6600.00
+    "subtotal": 6600.0,
+    "tax_amount": 0.0,
+    "billing_amount": 6600.0
   }
 }
-
