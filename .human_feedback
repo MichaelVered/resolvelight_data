@@ -1,8 +1,0 @@
-AEG supplier mismatch:
----------------------
-The supplier name "Quantum Apps Company" qualify and it is OK. Although contract shows "Quantum Apps Co.", as long the invoice shows "Quantum Apps" it should be approved, and it can have several industry standard suffix: such as Ltd, Inc, etc
----------------------
-
-Orion supplier mismatch:
------------------------
-The supplier name "Pixel Perfect Developers Inc." in the invoice can be matched to "Pixel Perfect Devs Inc.". Devs is a commonnly understood as Developers. These type of industry abbreviation (or shortening or clipping) should be accepted when you match supplier, or client names
