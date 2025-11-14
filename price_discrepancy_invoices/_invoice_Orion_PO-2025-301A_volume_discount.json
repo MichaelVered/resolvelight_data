@@ -1,0 +1,45 @@
+{
+  "invoice_id": "INV-ORI-2025-100",
+  "purchase_order_number": "PO-2025-301A",
+  "issue_date": "2025-01-10",
+  "due_date": "2025-02-09",
+  "payment_terms": "Net 30",
+  "currency": "USD",
+  "supplier_info": {
+    "name": "Pixel Perfect Devs Inc.",
+    "vendor_id": "V-58239"
+  },
+  "bill_to_info": {
+    "name": "Global Innovations Corp."
+  },
+  "line_items": [
+    {
+      "item_id": "ORI-001",
+      "description": "Microservices development sprint",
+      "quantity": 30,
+      "unit_price": 165.0,
+      "line_total": 4950.0
+    },
+    {
+      "item_id": "ORI-002",
+      "description": "Architecture & design hours",
+      "quantity": 10,
+      "unit_price": 165.0,
+      "line_total": 1650.0
+    },
+    {
+      "item_id": "ORI-003",
+      "description": "API documentation and testing",
+      "quantity": 8,
+      "unit_price": 165.0,
+      "line_total": 1320.0
+    }
+  ],
+  "summary": {
+    "subtotal": 7920.0,
+    "tax_amount": 0.0,
+    "billing_amount": 7920.0
+  },
+  "notes": "Price increase applied - 10% surcharge due to increased scope complexity and additional architectural review requirements"
+}
+
