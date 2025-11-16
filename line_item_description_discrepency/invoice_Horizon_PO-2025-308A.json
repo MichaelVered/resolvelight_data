@@ -15,14 +15,14 @@
   "line_items": [
     {
       "item_id": "HOR-001",
-      "description": "Configuration toggle deployment and feature management",
+      "description": "Feature flag deployment",
       "quantity": 25,
       "unit_price": 150.00,
       "line_total": 3750.00
     },
     {
       "item_id": "HOR-002",
-      "description": "Testing framework implementation and experimentation tools",
+      "description": "Experimentation framework configuration",
       "quantity": 15,
       "unit_price": 150.00,
       "line_total": 2250.00

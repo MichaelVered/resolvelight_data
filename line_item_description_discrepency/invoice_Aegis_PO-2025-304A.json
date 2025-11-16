@@ -1,5 +1,5 @@
 {
-  "invoice_id": "INV-AEG-2025-001",
+  "invoice_id": "INV-AEG-2025-121",
   "purchase_order_number": "PO-2025-304A",
   "issue_date": "2025-02-20",
   "due_date": "2025-03-22",
@@ -15,7 +15,7 @@
   "line_items": [
     {
       "item_id": "AEG-001",
-      "description": "Authentication system setup and multi-factor implementation",
+      "description": "SSO and MFA setup",
       "quantity": 40,
       "unit_price": 150.00,
       "line_total": 6000.00

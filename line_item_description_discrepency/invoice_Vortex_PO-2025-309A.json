@@ -1,5 +1,5 @@
 {
-  "invoice_id": "INV-VOR-2025-001",
+  "invoice_id": "INV-VOR-2025-331",
   "purchase_order_number": "PO-2025-309A",
   "issue_date": "2025-05-05",
   "due_date": "2025-06-04",
@@ -15,21 +15,21 @@
   "line_items": [
     {
       "item_id": "VOR-001",
-      "description": "Distributed query system configuration and GraphQL federation",
+      "description": "Federated GraphQL configuration",
       "quantity": 25,
       "unit_price": 150.00,
       "line_total": 3750.00
     },
     {
       "item_id": "VOR-002",
-      "description": "Traffic control rules and request throttling configuration",
+      "description": "Rate_limiting policies configuration",
       "quantity": 10,
       "unit_price": 150.00,
       "line_total": 1500.00
     },
     {
       "item_id": "VOR-003",
-      "description": "Service mesh gateway setup and API routing configuration",
+      "description": "Applictation Programming Interface gateway config",
       "quantity": 7,
       "unit_price": 150.00,
       "line_total": 1050.00

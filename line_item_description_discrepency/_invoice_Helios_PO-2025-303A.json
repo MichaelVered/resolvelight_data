@@ -1,5 +1,5 @@
 {
-  "invoice_id": "INV-HEL-2025-001",
+  "invoice_id": "INV-HEL-2025-901",
   "purchase_order_number": "PO-2025-303A",
   "issue_date": "2025-02-10",
   "due_date": "2025-03-12",
@@ -15,7 +15,7 @@
   "line_items": [
     {
       "item_id": "HEL-001",
-      "description": "Waste removal and recycling services",
+      "description": "Service decomposition planning",
       "quantity": 25,
       "unit_price": 150.00,
       "line_total": 3750.00

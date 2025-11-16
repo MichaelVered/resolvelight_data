@@ -15,7 +15,7 @@
   "line_items": [
     {
       "item_id": "AUR-001",
-      "description": "Machine learning system development and model release",
+      "description": "ML model training and deployment",
       "quantity": 1,
       "unit_price": 7500.00,
       "line_total": 7500.00

@@ -15,21 +15,21 @@
   "line_items": [
     {
       "item_id": "DEL-001",
-      "description": "Information system data loading and processing",
+      "description": "Data processing",
       "quantity": 25,
       "unit_price": 150.00,
       "line_total": 3750.00
     },
     {
       "item_id": "DEL-002",
-      "description": "Validation procedures and quality assurance configuration",
+      "description": "Quality test configuration",
       "quantity": 12,
       "unit_price": 150.00,
       "line_total": 1800.00
     },
     {
       "item_id": "DEL-003",
-      "description": "Verification system and data integrity checks",
+      "description": "Data validation system",
       "quantity": 7,
       "unit_price": 150.00,
       "line_total": 1050.00

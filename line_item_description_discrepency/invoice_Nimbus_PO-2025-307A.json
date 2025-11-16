@@ -15,14 +15,14 @@
   "line_items": [
     {
       "item_id": "NIM-001",
-      "description": "Version control automation and Git workflow configuration",
+      "description": "GitOps configuration",
       "quantity": 30,
       "unit_price": 150.00,
       "line_total": 4500.00
     },
     {
       "item_id": "NIM-002",
-      "description": "Infrastructure security enhancement and cluster protection",
+      "description": "Cluster security hardening",
       "quantity": 14,
       "unit_price": 150.00,
       "line_total": 2100.00

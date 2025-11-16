@@ -15,21 +15,21 @@
   "line_items": [
     {
       "item_id": "ORI-001",
-      "description": "Backend services development and microservices architecture sprint",
+      "description": "Microservices development",
       "quantity": 30,
       "unit_price": 150.00,
       "line_total": 4500.00
     },
     {
       "item_id": "ORI-002",
-      "description": "System design consultation and architectural planning hours",
+      "description": "Architecture and design hours",
       "quantity": 10,
       "unit_price": 150.00,
       "line_total": 1500.00
     },
     {
       "item_id": "ORI-003",
-      "description": "Interface specification documentation and integration testing",
+      "description": "API documentation and test",
       "quantity": 8,
       "unit_price": 150.00,
       "line_total": 1200.00

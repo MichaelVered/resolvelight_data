@@ -1,5 +1,5 @@
 {
-  "invoice_id": "INV-HEL-2025-001",
+  "invoice_id": "INV-HEL-2025-491",
   "purchase_order_number": "PO-2025-303A",
   "issue_date": "2025-02-10",
   "due_date": "2025-03-12",
@@ -15,14 +15,14 @@
   "line_items": [
     {
       "item_id": "HEL-001",
-      "description": "Architecture breakdown and service design strategy",
+      "description": "Service breakdown planning",
       "quantity": 25,
       "unit_price": 150.00,
       "line_total": 3750.00
     },
     {
       "item_id": "HEL-002",
-      "description": "Data structure restructuring and schema modification session",
+      "description": "Database redesign session",
       "quantity": 15,
       "unit_price": 150.00,
       "line_total": 2250.00

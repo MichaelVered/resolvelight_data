@@ -1,5 +1,5 @@
 {
-  "invoice_id": "INV-ZEP-2025-001",
+  "invoice_id": "INV-ZEP-2025-141",
   "purchase_order_number": "PO-2025-305A",
   "issue_date": "2025-03-10",
   "due_date": "2025-04-09",
@@ -15,14 +15,14 @@
   "line_items": [
     {
       "item_id": "ZEP-001",
-      "description": "Cross-platform application development and mobile infrastructure sprint",
+      "description": "Mobile foundation development",
       "quantity": 30,
       "unit_price": 150.00,
       "line_total": 4500.00
     },
     {
       "item_id": "ZEP-002",
-      "description": "UI component library and quality assurance testing",
+      "description": "Design system and QA",
       "quantity": 14,
       "unit_price": 150.00,
       "line_total": 2100.00
