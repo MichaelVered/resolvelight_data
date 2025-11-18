@@ -1,5 +1,5 @@
 {
-  "invoice_id": "INV-ORI-2025-001",
+  "invoice_id": "INV-ORI-2025-501",
   "purchase_order_number": "PO-2025-301A",
   "issue_date": "2025-01-10",
   "due_date": "2025-02-09",
@@ -17,27 +17,27 @@
       "item_id": "ORI-001",
       "description": "Carpet cleaning and upholstery services",
       "quantity": 30,
-      "unit_price": 150.00,
-      "line_total": 4500.00
+      "unit_price": 150.0,
+      "line_total": 4500.0
     },
     {
       "item_id": "ORI-002",
       "description": "Legal consultation and contract review",
       "quantity": 10,
-      "unit_price": 150.00,
-      "line_total": 1500.00
+      "unit_price": 150.0,
+      "line_total": 1500.0
     },
     {
       "item_id": "ORI-003",
       "description": "Employee training and certification programs",
       "quantity": 8,
-      "unit_price": 150.00,
-      "line_total": 1200.00
+      "unit_price": 150.0,
+      "line_total": 1200.0
     }
   ],
   "summary": {
-    "subtotal": 7200.00,
-    "tax_amount": 0.00,
-    "billing_amount": 7200.00
+    "subtotal": 7200.0,
+    "tax_amount": 0.0,
+    "billing_amount": 7200.0
   }
 }

@@ -1,5 +1,5 @@
 {
-  "invoice_id": "INV-DEL-2025-001",
+  "invoice_id": "INV-DEL-2025-500",
   "purchase_order_number": "PO-2025-306A",
   "issue_date": "2025-03-20",
   "due_date": "2025-04-19",
@@ -17,28 +17,27 @@
       "item_id": "DEL-001",
       "description": "Data processing",
       "quantity": 25,
-      "unit_price": 150.00,
-      "line_total": 3750.00
+      "unit_price": 150.0,
+      "line_total": 3750.0
     },
     {
       "item_id": "DEL-002",
       "description": "Quality test configuration",
       "quantity": 12,
-      "unit_price": 150.00,
-      "line_total": 1800.00
+      "unit_price": 150.0,
+      "line_total": 1800.0
     },
     {
       "item_id": "DEL-003",
       "description": "Data validation system",
       "quantity": 7,
-      "unit_price": 150.00,
-      "line_total": 1050.00
+      "unit_price": 150.0,
+      "line_total": 1050.0
     }
   ],
   "summary": {
-    "subtotal": 6600.00,
-    "tax_amount": 0.00,
-    "billing_amount": 6600.00
+    "subtotal": 6600.0,
+    "tax_amount": 0.0,
+    "billing_amount": 6600.0
   }
 }
-

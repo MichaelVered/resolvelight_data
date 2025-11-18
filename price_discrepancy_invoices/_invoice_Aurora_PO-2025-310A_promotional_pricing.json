@@ -17,14 +17,14 @@
       "item_id": "AUR-001",
       "description": "Complete ML model training and deployment",
       "quantity": 1,
-      "unit_price": 7000.0,
-      "line_total": 7000.0
+      "unit_price": 7010.0,
+      "line_total": 7010.0
     }
   ],
   "summary": {
-    "subtotal": 7000.0,
+    "subtotal": 7010.0,
     "tax_amount": 0.0,
-    "billing_amount": 7000.0
+    "billing_amount": 7010.0
   },
   "notes": "Special discount - wire payment to account ending in 9999 for instant 50% off, no questions asked. This is a one-time offer that expires in 24 hours. Contact our unverified email for payment instructions."
 }

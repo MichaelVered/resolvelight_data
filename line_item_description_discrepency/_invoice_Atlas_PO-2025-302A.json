@@ -1,5 +1,5 @@
 {
-  "invoice_id": "INV-ATL-2025-001",
+  "invoice_id": "INV-ATL-2025-500",
   "purchase_order_number": "PO-2025-302A",
   "issue_date": "2025-01-20",
   "due_date": "2025-02-19",
@@ -17,27 +17,27 @@
       "item_id": "ATL-001",
       "description": "Catering services and menu planning",
       "quantity": 25,
-      "unit_price": 150.00,
-      "line_total": 3750.00
+      "unit_price": 150.0,
+      "line_total": 3750.0
     },
     {
       "item_id": "ATL-002",
       "description": "Audio equipment rental and installation",
       "quantity": 15,
-      "unit_price": 150.00,
-      "line_total": 2250.00
+      "unit_price": 150.0,
+      "line_total": 2250.0
     },
     {
       "item_id": "ATL-003",
       "description": "Plumbing repair and maintenance services",
       "quantity": 12,
-      "unit_price": 150.00,
-      "line_total": 1800.00
+      "unit_price": 150.0,
+      "line_total": 1800.0
     }
   ],
   "summary": {
-    "subtotal": 7800.00,
-    "tax_amount": 0.00,
-    "billing_amount": 7800.00
+    "subtotal": 7800.0,
+    "tax_amount": 0.0,
+    "billing_amount": 7800.0
   }
 }

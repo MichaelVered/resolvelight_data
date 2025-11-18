@@ -1,5 +1,5 @@
 {
-  "invoice_id": "INV-HOR-2025-001",
+  "invoice_id": "INV-HOR-2025-500",
   "purchase_order_number": "PO-2025-308A",
   "issue_date": "2025-04-20",
   "due_date": "2025-05-20",
@@ -17,21 +17,20 @@
       "item_id": "HOR-001",
       "description": "Feature flag deployment",
       "quantity": 25,
-      "unit_price": 150.00,
-      "line_total": 3750.00
+      "unit_price": 150.0,
+      "line_total": 3750.0
     },
     {
       "item_id": "HOR-002",
       "description": "Experimentation framework configuration",
       "quantity": 15,
-      "unit_price": 150.00,
-      "line_total": 2250.00
+      "unit_price": 150.0,
+      "line_total": 2250.0
     }
   ],
   "summary": {
-    "subtotal": 6000.00,
-    "tax_amount": 0.00,
-    "billing_amount": 6000.00
+    "subtotal": 6000.0,
+    "tax_amount": 0.0,
+    "billing_amount": 6000.0
   }
 }
-

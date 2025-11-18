@@ -1,5 +1,5 @@
 {
-  "invoice_id": "INV-ORI-2025-100",
+  "invoice_id": "INV-ORI-2025-502",
   "purchase_order_number": "PO-2025-301A",
   "issue_date": "2025-01-10",
   "due_date": "2025-02-09",
@@ -42,4 +42,3 @@
   },
   "notes": "Price increase applied - 10% surcharge due to increased scope complexity and additional architectural review requirements"
 }
-
